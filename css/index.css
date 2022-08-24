@@ -67,7 +67,7 @@ nav {
 
 .left-section h1 {
     font-family: 'Roboto' sans-serif;
-    font-size: 5rem;
+    font-size: 4.5rem;
     color: #3E4794;
 
 }
@@ -107,6 +107,7 @@ nav {
     position: relative;
     width: 40rem;
     right: 10rem;
+    top: 2rem;
 }
 
 .imgs-div img:nth-child(2) {
@@ -201,7 +202,8 @@ nav {
         .signin-btn {
             width: 8rem;
             margin: 0.5 auto;           
-            padding: 1rem 2rem;            
+            padding: 1rem 2rem;
+            margin-bottom: 2rem;            
         }
 
          /* ---------LEFT-INTRO-SECTION---------- */
